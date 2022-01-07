@@ -1,0 +1,1 @@
+{"model": {"input_type": "image", "model_format": "ZIP(HDF5, JSON)", "model_name": "sdd", "model_split": "Split_No", "model_version": 0.1, "preferred_computaion_method": "GPU", "purpose": "detection", "split_number": 0, "tag": "df", "target": "member"}}
